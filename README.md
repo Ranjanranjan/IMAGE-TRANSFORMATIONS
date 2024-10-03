@@ -7,7 +7,8 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 ## Software Required:
 Anaconda - Python 3.7
 
-## Algorithm:### Step1:
+## Algorithm:
+### Step1:
 
 Import necessary libraries such as OpenCV, NumPy, and Matplotlib for image processing and visualization.
 
